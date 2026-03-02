@@ -1,4 +1,4 @@
-# Data Dunkers: Rink
+# Data Dunkers: Rinks
 
 ## Hockey, Esports, AI, and Data
 
